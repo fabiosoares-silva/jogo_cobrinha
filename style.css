@@ -1,0 +1,16 @@
+body {
+	height: 95vh;
+	width: 95;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	background: url("./image/cobra.jpg");
+	background-size: 25vh;
+	
+}
+
+h1 {
+	color: white;
+	background: rgb(19, 189, 3);
+}
